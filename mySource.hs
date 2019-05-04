@@ -1,0 +1,1 @@
+main = putStrLn "This is compiled Haskell code."
